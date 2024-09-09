@@ -1,2 +1,3 @@
 # FinMLA
- add folder 
+ Finance Machine Learning and Analytics
+ 
