@@ -1,3 +1,3 @@
 # FinMLA
- Finance Machine Learning and Analytics
+ Fin Machine Learning and Analytics
  
